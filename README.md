@@ -1,1 +1,1 @@
-# OpenMAC-P
+# OpenMAC-P^3
